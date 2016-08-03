@@ -1,4 +1,3 @@
-layout_spectrum: 0.29316911404021084
 typography_spectrum: 0.934468999505043
 color:
   brandStrength: 0.45757920597679913
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.29316911404021084
 name: Phi Solver
 title: research and advisory
+description: revvs up startups
